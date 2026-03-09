@@ -256,7 +256,7 @@ Bachelor of Arts (B.A.), Strategic Communication
 - 8 Cloudflare Pages production deployments
 - 12+ Railway microservices with auto-deployment
 - 3-node Raspberry Pi edge computing cluster
-- 1 DigitalOcean VPS (159.65.43.12 — codex-infinity)
+- 1 DigitalOcean VPS (159.65.43.12 — blackroad os-infinity)
 
 ---
 

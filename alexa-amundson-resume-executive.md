@@ -585,7 +585,7 @@ EDGE COMPUTING
 │ │ └─ Cost: $1,800/month                                   │    │
 │ │                                                           │    │
 │ │ DigitalOcean (Specialized Workloads):                   │    │
-│ │ ├─ 1 VPS (codex-infinity): 159.65.43.12                 │    │
+│ │ ├─ 1 VPS (blackroad os-infinity): 159.65.43.12                 │    │
 │ │ ├─ 8GB RAM, 4 vCPUs, 160GB SSD                          │    │
 │ │ ├─ Custom services, legacy support                      │    │
 │ │ └─ Cost: $60/month                                      │    │

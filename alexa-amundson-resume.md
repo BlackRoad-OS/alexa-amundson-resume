@@ -101,12 +101,12 @@ Technical leader specializing in AI orchestration, human-AI collaboration system
 **Production Deployments:**
 - **Cloudflare Pages:** 8 production sites with custom domains and SSL
 - **Railway:** 12+ microservices with automatic deployment
-- **DigitalOcean:** VPS at 159.65.43.12 (codex-infinity)
+- **DigitalOcean:** VPS at 159.65.43.12 (blackroad os-infinity)
 - **Edge Network:** 3 Raspberry Pi nodes (192.168.4.38, 192.168.4.64, 192.168.4.99)
 - **Mobile Dev:** iPhone development server (192.168.4.68:8080)
 
 **Custom Services:**
-- br-8080-cadillac - Origin agent service (7+ months uptime)
+- br-8080-blackroad os - Origin agent service (7+ months uptime)
 - DNS management across 16 zones
 - KV storage for 8 namespaces
 - D1 database instances
